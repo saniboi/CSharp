@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\15_Polymorphie_mit_Vererbung\\15_Polymorphie_mit_Vererbung.csproj": {}
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\15_Polymorphie_mit_Vererbung\\15_Polymorphie_mit_Vererbung.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\15_Polymorphie_mit_Vererbung\\15_Polymorphie_mit_Vererbung.csproj": {
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\15_Polymorphie_mit_Vererbung\\15_Polymorphie_mit_Vererbung.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\15_Polymorphie_mit_Vererbung\\15_Polymorphie_mit_Vererbung.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\15_Polymorphie_mit_Vererbung\\15_Polymorphie_mit_Vererbung.csproj",
         "projectName": "15_Polymorphie_mit_Vererbung",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\15_Polymorphie_mit_Vererbung\\15_Polymorphie_mit_Vererbung.csproj",
+        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\15_Polymorphie_mit_Vererbung\\15_Polymorphie_mit_Vererbung.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\15_Polymorphie_mit_Vererbung\\obj\\",
         "projectStyle": "PackageReference",

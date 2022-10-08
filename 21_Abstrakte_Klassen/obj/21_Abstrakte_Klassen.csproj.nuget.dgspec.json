@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\21_Abstrakte_Klassen\\21_Abstrakte_Klassen.csproj": {}
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\21_Abstrakte_Klassen\\21_Abstrakte_Klassen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\21_Abstrakte_Klassen\\21_Abstrakte_Klassen.csproj": {
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\21_Abstrakte_Klassen\\21_Abstrakte_Klassen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\21_Abstrakte_Klassen\\21_Abstrakte_Klassen.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\21_Abstrakte_Klassen\\21_Abstrakte_Klassen.csproj",
         "projectName": "21_Abstrakte_Klassen",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\21_Abstrakte_Klassen\\21_Abstrakte_Klassen.csproj",
+        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\21_Abstrakte_Klassen\\21_Abstrakte_Klassen.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\21_Abstrakte_Klassen\\obj\\",
+        "outputPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\21_Abstrakte_Klassen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

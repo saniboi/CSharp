@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\07_Klassenelemente_Konstruktoren\\07_Klassenelemente_Konstruktoren.csproj": {}
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\07_Klassenelemente_Konstruktoren\\07_Klassenelemente_Konstruktoren.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\07_Klassenelemente_Konstruktoren\\07_Klassenelemente_Konstruktoren.csproj": {
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\07_Klassenelemente_Konstruktoren\\07_Klassenelemente_Konstruktoren.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\07_Klassenelemente_Konstruktoren\\07_Klassenelemente_Konstruktoren.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\07_Klassenelemente_Konstruktoren\\07_Klassenelemente_Konstruktoren.csproj",
         "projectName": "07_Klassenelemente_Konstruktoren",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\07_Klassenelemente_Konstruktoren\\07_Klassenelemente_Konstruktoren.csproj",
+        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\07_Klassenelemente_Konstruktoren\\07_Klassenelemente_Konstruktoren.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\07_Klassenelemente_Konstruktoren\\obj\\",
         "projectStyle": "PackageReference",

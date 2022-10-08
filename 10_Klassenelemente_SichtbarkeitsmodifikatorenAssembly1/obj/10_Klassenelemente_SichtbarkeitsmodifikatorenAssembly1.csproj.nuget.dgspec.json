@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1.csproj": {}
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1.csproj": {
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1.csproj",
         "projectName": "10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1.csproj",
+        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1\\obj\\",
+        "outputPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\10_Klassenelemente_SichtbarkeitsmodifikatorenAssembly1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

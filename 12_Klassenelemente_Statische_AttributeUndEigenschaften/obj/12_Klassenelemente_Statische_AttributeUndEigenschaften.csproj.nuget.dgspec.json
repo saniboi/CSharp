@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\12_Klassenelemente_Statische_AttributeUndEigenschaften\\12_Klassenelemente_Statische_AttributeUndEigenschaften.csproj": {}
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\12_Klassenelemente_Statische_AttributeUndEigenschaften\\12_Klassenelemente_Statische_AttributeUndEigenschaften.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\12_Klassenelemente_Statische_AttributeUndEigenschaften\\12_Klassenelemente_Statische_AttributeUndEigenschaften.csproj": {
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\12_Klassenelemente_Statische_AttributeUndEigenschaften\\12_Klassenelemente_Statische_AttributeUndEigenschaften.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\12_Klassenelemente_Statische_AttributeUndEigenschaften\\12_Klassenelemente_Statische_AttributeUndEigenschaften.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\12_Klassenelemente_Statische_AttributeUndEigenschaften\\12_Klassenelemente_Statische_AttributeUndEigenschaften.csproj",
         "projectName": "12_Klassenelemente_Statische_AttributeUndEigenschaften",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\12_Klassenelemente_Statische_AttributeUndEigenschaften\\12_Klassenelemente_Statische_AttributeUndEigenschaften.csproj",
+        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\12_Klassenelemente_Statische_AttributeUndEigenschaften\\12_Klassenelemente_Statische_AttributeUndEigenschaften.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\12_Klassenelemente_Statische_AttributeUndEigenschaften\\obj\\",
         "projectStyle": "PackageReference",

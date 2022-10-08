@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\20_Konvertierung\\20_Konvertierung.csproj": {}
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\20_Konvertierung\\20_Konvertierung.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\20_Konvertierung\\20_Konvertierung.csproj": {
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\20_Konvertierung\\20_Konvertierung.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\20_Konvertierung\\20_Konvertierung.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\20_Konvertierung\\20_Konvertierung.csproj",
         "projectName": "20_Konvertierung",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\20_Konvertierung\\20_Konvertierung.csproj",
+        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\20_Konvertierung\\20_Konvertierung.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\20_Konvertierung\\obj\\",
+        "outputPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\20_Konvertierung\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

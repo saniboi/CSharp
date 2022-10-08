@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\06_Strings\\06_Strings.csproj": {}
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\06_Strings\\06_Strings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\06_Strings\\06_Strings.csproj": {
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\06_Strings\\06_Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\06_Strings\\06_Strings.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\06_Strings\\06_Strings.csproj",
         "projectName": "06_Strings",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\06_Strings\\06_Strings.csproj",
+        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\06_Strings\\06_Strings.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\06_Strings\\obj\\",
+        "outputPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\06_Strings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

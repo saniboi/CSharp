@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\08_Operatoren\\08_Operatoren.csproj": {}
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\08_Operatoren\\08_Operatoren.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\08_Operatoren\\08_Operatoren.csproj": {
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\08_Operatoren\\08_Operatoren.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\08_Operatoren\\08_Operatoren.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\08_Operatoren\\08_Operatoren.csproj",
         "projectName": "08_Operatoren",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\08_Operatoren\\08_Operatoren.csproj",
+        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\08_Operatoren\\08_Operatoren.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\08_Operatoren\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+WNAd587EG2SQGdKbi+tndn4ucpJ4tkS/xWzUSKpyU0PhMaWsVyOEhOMlT1RYIjF9i+8V8JUYyiWL39YQ2jd1g==",
+  "dgSpecHash": "MF8eKWVwnBP4qpYZmnH1Nw+qktoxWjxEa6QSJjH8SVv3SYD5buOClMs5IrCIWz67FzUaeBCE3DuBWCPtmUou/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sanke\\source\\repos\\CSharp\\02_Konzept_Kapselung\\02_Konzept_Kapselung.csproj",
+  "projectFilePath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\02_Konzept_Kapselung\\02_Konzept_Kapselung.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\11_Klassenelemente_Destruktor\\11_Klassenelemente_Destruktor.csproj": {}
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\11_Klassenelemente_Destruktor\\11_Klassenelemente_Destruktor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\11_Klassenelemente_Destruktor\\11_Klassenelemente_Destruktor.csproj": {
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\11_Klassenelemente_Destruktor\\11_Klassenelemente_Destruktor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\11_Klassenelemente_Destruktor\\11_Klassenelemente_Destruktor.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\11_Klassenelemente_Destruktor\\11_Klassenelemente_Destruktor.csproj",
         "projectName": "11_Klassenelemente_Destruktor",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\11_Klassenelemente_Destruktor\\11_Klassenelemente_Destruktor.csproj",
+        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\11_Klassenelemente_Destruktor\\11_Klassenelemente_Destruktor.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\11_Klassenelemente_Destruktor\\obj\\",
         "projectStyle": "PackageReference",

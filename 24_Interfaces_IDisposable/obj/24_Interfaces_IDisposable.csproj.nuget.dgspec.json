@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\24_Interfaces_IDisposable\\24_Interfaces_IDisposable.csproj": {}
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\24_Interfaces_IDisposable\\24_Interfaces_IDisposable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\24_Interfaces_IDisposable\\24_Interfaces_IDisposable.csproj": {
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\24_Interfaces_IDisposable\\24_Interfaces_IDisposable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\24_Interfaces_IDisposable\\24_Interfaces_IDisposable.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\24_Interfaces_IDisposable\\24_Interfaces_IDisposable.csproj",
         "projectName": "24_Interfaces_IDisposable",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\24_Interfaces_IDisposable\\24_Interfaces_IDisposable.csproj",
+        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\24_Interfaces_IDisposable\\24_Interfaces_IDisposable.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\24_Interfaces_IDisposable\\obj\\",
         "projectStyle": "PackageReference",

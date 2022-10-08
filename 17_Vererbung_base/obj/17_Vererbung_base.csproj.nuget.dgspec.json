@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\17_Vererbung_base\\17_Vererbung_base.csproj": {}
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\17_Vererbung_base\\17_Vererbung_base.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\17_Vererbung_base\\17_Vererbung_base.csproj": {
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\17_Vererbung_base\\17_Vererbung_base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\17_Vererbung_base\\17_Vererbung_base.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\17_Vererbung_base\\17_Vererbung_base.csproj",
         "projectName": "17_Vererbung_base",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\17_Vererbung_base\\17_Vererbung_base.csproj",
+        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\17_Vererbung_base\\17_Vererbung_base.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\17_Vererbung_base\\obj\\",
+        "outputPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\17_Vererbung_base\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

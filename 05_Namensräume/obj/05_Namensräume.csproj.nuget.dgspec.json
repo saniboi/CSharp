@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\05_Namensräume\\05_Namensräume.csproj": {}
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\05_Namensräume\\05_Namensräume.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\05_Namensräume\\05_Namensräume.csproj": {
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\05_Namensräume\\05_Namensräume.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\05_Namensräume\\05_Namensräume.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\05_Namensräume\\05_Namensräume.csproj",
         "projectName": "05_Namensräume",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\05_Namensräume\\05_Namensräume.csproj",
+        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\05_Namensräume\\05_Namensräume.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\05_Namensräume\\obj\\",
         "projectStyle": "PackageReference",

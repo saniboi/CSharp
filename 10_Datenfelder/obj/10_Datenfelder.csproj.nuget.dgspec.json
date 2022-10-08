@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\10_Datenfelder\\10_Datenfelder.csproj": {}
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\10_Datenfelder\\10_Datenfelder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\CSharp\\10_Datenfelder\\10_Datenfelder.csproj": {
+    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\10_Datenfelder\\10_Datenfelder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\10_Datenfelder\\10_Datenfelder.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\10_Datenfelder\\10_Datenfelder.csproj",
         "projectName": "10_Datenfelder",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\10_Datenfelder\\10_Datenfelder.csproj",
+        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\10_Datenfelder\\10_Datenfelder.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\10_Datenfelder\\obj\\",
         "projectStyle": "PackageReference",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_3_4_IComparable\\Übung_3_4_IComparable.csproj",
+      "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_3_4_IComparable\\Übung_3_4_IComparable.csproj",
       "projectName": "Übung_3_4_IComparable",
-      "projectPath": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_3_4_IComparable\\Übung_3_4_IComparable.csproj",
+      "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_3_4_IComparable\\Übung_3_4_IComparable.csproj",
       "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_3_4_IComparable\\obj\\",
+      "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_3_4_IComparable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

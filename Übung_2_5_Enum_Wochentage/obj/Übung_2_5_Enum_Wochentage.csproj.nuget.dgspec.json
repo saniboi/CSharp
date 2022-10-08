@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_2_5_Enum_Wochentage\\Übung_2_5_Enum_Wochentage.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_2_5_Enum_Wochentage\\Übung_2_5_Enum_Wochentage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_2_5_Enum_Wochentage\\Übung_2_5_Enum_Wochentage.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_2_5_Enum_Wochentage\\Übung_2_5_Enum_Wochentage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_2_5_Enum_Wochentage\\Übung_2_5_Enum_Wochentage.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_2_5_Enum_Wochentage\\Übung_2_5_Enum_Wochentage.csproj",
         "projectName": "Übung_2_5_Enum_Wochentage",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_2_5_Enum_Wochentage\\Übung_2_5_Enum_Wochentage.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_2_5_Enum_Wochentage\\Übung_2_5_Enum_Wochentage.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_2_5_Enum_Wochentage\\obj\\",
+        "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_2_5_Enum_Wochentage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

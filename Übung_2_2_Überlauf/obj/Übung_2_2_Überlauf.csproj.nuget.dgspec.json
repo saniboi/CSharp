@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_2_2_Überlauf\\Übung_2_2_Überlauf.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_2_2_Überlauf\\Übung_2_2_Überlauf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_2_2_Überlauf\\Übung_2_2_Überlauf.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_2_2_Überlauf\\Übung_2_2_Überlauf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_2_2_Überlauf\\Übung_2_2_Überlauf.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_2_2_Überlauf\\Übung_2_2_Überlauf.csproj",
         "projectName": "Übung_2_2_Überlauf",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_2_2_Überlauf\\Übung_2_2_Überlauf.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_2_2_Überlauf\\Übung_2_2_Überlauf.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_2_2_Überlauf\\obj\\",
+        "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_2_2_Überlauf\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

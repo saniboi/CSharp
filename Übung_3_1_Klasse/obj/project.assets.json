@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_3_1_Klasse\\Übung_3_1_Klasse.csproj",
+      "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_3_1_Klasse\\Übung_3_1_Klasse.csproj",
       "projectName": "Übung_3_1_Klasse",
-      "projectPath": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_3_1_Klasse\\Übung_3_1_Klasse.csproj",
+      "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_3_1_Klasse\\Übung_3_1_Klasse.csproj",
       "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_3_1_Klasse\\obj\\",
+      "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_3_1_Klasse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

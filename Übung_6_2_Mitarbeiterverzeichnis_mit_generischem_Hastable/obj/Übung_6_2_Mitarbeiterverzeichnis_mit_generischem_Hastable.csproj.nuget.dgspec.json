@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable.csproj",
         "projectName": "Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable\\obj\\",
+        "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

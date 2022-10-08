@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_2_4_Sieb_des_Eratosthenes\\Übung_2_4_Sieb_des_Eratosthenes.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_2_4_Sieb_des_Eratosthenes\\Übung_2_4_Sieb_des_Eratosthenes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_2_4_Sieb_des_Eratosthenes\\Übung_2_4_Sieb_des_Eratosthenes.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_2_4_Sieb_des_Eratosthenes\\Übung_2_4_Sieb_des_Eratosthenes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_2_4_Sieb_des_Eratosthenes\\Übung_2_4_Sieb_des_Eratosthenes.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_2_4_Sieb_des_Eratosthenes\\Übung_2_4_Sieb_des_Eratosthenes.csproj",
         "projectName": "Übung_2_4_Sieb_des_Eratosthenes",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_2_4_Sieb_des_Eratosthenes\\Übung_2_4_Sieb_des_Eratosthenes.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_2_4_Sieb_des_Eratosthenes\\Übung_2_4_Sieb_des_Eratosthenes.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_2_4_Sieb_des_Eratosthenes\\obj\\",
+        "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_2_4_Sieb_des_Eratosthenes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

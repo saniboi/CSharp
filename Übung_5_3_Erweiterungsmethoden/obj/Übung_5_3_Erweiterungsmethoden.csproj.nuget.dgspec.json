@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_5_3_Erweiterungsmethoden\\Übung_5_3_Erweiterungsmethoden.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_5_3_Erweiterungsmethoden\\Übung_5_3_Erweiterungsmethoden.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_5_3_Erweiterungsmethoden\\Übung_5_3_Erweiterungsmethoden.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_5_3_Erweiterungsmethoden\\Übung_5_3_Erweiterungsmethoden.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_5_3_Erweiterungsmethoden\\Übung_5_3_Erweiterungsmethoden.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_5_3_Erweiterungsmethoden\\Übung_5_3_Erweiterungsmethoden.csproj",
         "projectName": "Übung_5_3_Erweiterungsmethoden",
-        "projectPath": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_5_3_Erweiterungsmethoden\\Übung_5_3_Erweiterungsmethoden.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_5_3_Erweiterungsmethoden\\Übung_5_3_Erweiterungsmethoden.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanke\\source\\repos\\3333CSharpLearning\\CS1\\02 Code\\Übung_5_3_Erweiterungsmethoden\\obj\\",
+        "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\Übung_5_3_Erweiterungsmethoden\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

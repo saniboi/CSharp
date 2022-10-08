@@ -1,0 +1,16 @@
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS1\02 Code\Übung_2_5_Enum_Wochentage\bin\Debug\net5.0\Übung_2_5_Enum_Wochentage.exe
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS1\02 Code\Übung_2_5_Enum_Wochentage\bin\Debug\net5.0\Übung_2_5_Enum_Wochentage.deps.json
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS1\02 Code\Übung_2_5_Enum_Wochentage\bin\Debug\net5.0\Übung_2_5_Enum_Wochentage.runtimeconfig.json
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS1\02 Code\Übung_2_5_Enum_Wochentage\bin\Debug\net5.0\Übung_2_5_Enum_Wochentage.runtimeconfig.dev.json
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS1\02 Code\Übung_2_5_Enum_Wochentage\bin\Debug\net5.0\Übung_2_5_Enum_Wochentage.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS1\02 Code\Übung_2_5_Enum_Wochentage\bin\Debug\net5.0\Übung_2_5_Enum_Wochentage.pdb
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS1\02 Code\Übung_2_5_Enum_Wochentage\obj\Debug\net5.0\Übung_2_5_Enum_Wochentage.csproj.AssemblyReference.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS1\02 Code\Übung_2_5_Enum_Wochentage\obj\Debug\net5.0\Übung_2_5_Enum_Wochentage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS1\02 Code\Übung_2_5_Enum_Wochentage\obj\Debug\net5.0\Übung_2_5_Enum_Wochentage.AssemblyInfoInputs.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS1\02 Code\Übung_2_5_Enum_Wochentage\obj\Debug\net5.0\Übung_2_5_Enum_Wochentage.AssemblyInfo.cs
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS1\02 Code\Übung_2_5_Enum_Wochentage\obj\Debug\net5.0\Übung_2_5_Enum_Wochentage.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS1\02 Code\Übung_2_5_Enum_Wochentage\obj\Debug\net5.0\Übung_2_5_Enum_Wochentage.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS1\02 Code\Übung_2_5_Enum_Wochentage\obj\Debug\net5.0\refint\Übung_2_5_Enum_Wochentage.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS1\02 Code\Übung_2_5_Enum_Wochentage\obj\Debug\net5.0\Übung_2_5_Enum_Wochentage.pdb
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS1\02 Code\Übung_2_5_Enum_Wochentage\obj\Debug\net5.0\Übung_2_5_Enum_Wochentage.genruntimeconfig.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS1\02 Code\Übung_2_5_Enum_Wochentage\obj\Debug\net5.0\ref\Übung_2_5_Enum_Wochentage.dll

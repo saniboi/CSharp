@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable/1.0.0": {
+        "runtime": {
+          "Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Übung_6_2_Mitarbeiterverzeichnis_mit_generischem_Hastable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

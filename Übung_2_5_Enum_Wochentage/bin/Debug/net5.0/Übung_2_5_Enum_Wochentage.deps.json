@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Übung_2_5_Enum_Wochentage/1.0.0": {
+        "runtime": {
+          "Übung_2_5_Enum_Wochentage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Übung_2_5_Enum_Wochentage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\sanke\source\repos\CSharp\04_Konzept_Polymorphie\bin\Debug\net6.0\04_Konzept_Polymorphie.exe
+C:\Users\sanke\source\repos\CSharp\04_Konzept_Polymorphie\bin\Debug\net6.0\04_Konzept_Polymorphie.deps.json
+C:\Users\sanke\source\repos\CSharp\04_Konzept_Polymorphie\bin\Debug\net6.0\04_Konzept_Polymorphie.runtimeconfig.json
+C:\Users\sanke\source\repos\CSharp\04_Konzept_Polymorphie\bin\Debug\net6.0\04_Konzept_Polymorphie.dll
+C:\Users\sanke\source\repos\CSharp\04_Konzept_Polymorphie\bin\Debug\net6.0\04_Konzept_Polymorphie.pdb
+C:\Users\sanke\source\repos\CSharp\04_Konzept_Polymorphie\obj\Debug\net6.0\04_Konzept_Polymorphie.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\CSharp\04_Konzept_Polymorphie\obj\Debug\net6.0\04_Konzept_Polymorphie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanke\source\repos\CSharp\04_Konzept_Polymorphie\obj\Debug\net6.0\04_Konzept_Polymorphie.AssemblyInfoInputs.cache
+C:\Users\sanke\source\repos\CSharp\04_Konzept_Polymorphie\obj\Debug\net6.0\04_Konzept_Polymorphie.AssemblyInfo.cs
+C:\Users\sanke\source\repos\CSharp\04_Konzept_Polymorphie\obj\Debug\net6.0\04_Konzept_Polymorphie.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\CSharp\04_Konzept_Polymorphie\obj\Debug\net6.0\04_Konzept_Polymorphie.dll
+C:\Users\sanke\source\repos\CSharp\04_Konzept_Polymorphie\obj\Debug\net6.0\refint\04_Konzept_Polymorphie.dll
+C:\Users\sanke\source\repos\CSharp\04_Konzept_Polymorphie\obj\Debug\net6.0\04_Konzept_Polymorphie.pdb
+C:\Users\sanke\source\repos\CSharp\04_Konzept_Polymorphie\obj\Debug\net6.0\04_Konzept_Polymorphie.genruntimeconfig.cache
+C:\Users\sanke\source\repos\CSharp\04_Konzept_Polymorphie\obj\Debug\net6.0\ref\04_Konzept_Polymorphie.dll

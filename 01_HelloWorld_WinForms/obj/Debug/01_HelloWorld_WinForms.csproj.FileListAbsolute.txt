@@ -1,0 +1,8 @@
+C:\Users\sanke\source\repos\3333CSharpLearning\CS1\02 Code\01_HelloWorld_WinForms\bin\Debug\01_Hello_World.exe.config
+C:\Users\sanke\source\repos\3333CSharpLearning\CS1\02 Code\01_HelloWorld_WinForms\bin\Debug\01_Hello_World.exe
+C:\Users\sanke\source\repos\3333CSharpLearning\CS1\02 Code\01_HelloWorld_WinForms\bin\Debug\01_Hello_World.pdb
+C:\Users\sanke\source\repos\3333CSharpLearning\CS1\02 Code\01_HelloWorld_WinForms\obj\Debug\01_HelloWorld_WinForms.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\3333CSharpLearning\CS1\02 Code\01_HelloWorld_WinForms\obj\Debug\01_HelloWorld_WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\3333CSharpLearning\CS1\02 Code\01_HelloWorld_WinForms\obj\Debug\01_HelloWorld_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\3333CSharpLearning\CS1\02 Code\01_HelloWorld_WinForms\obj\Debug\01_Hello_World.exe
+C:\Users\sanke\source\repos\3333CSharpLearning\CS1\02 Code\01_HelloWorld_WinForms\obj\Debug\01_Hello_World.pdb

@@ -2,63 +2,73 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "Spectre.Console/0.42.0": {
+      "Spectre.Console/0.45.0": {
         "type": "package",
         "dependencies": {
-          "Wcwidth": "0.2.0"
+          "System.Memory": "4.5.5"
         },
         "compile": {
-          "lib/net5.0/Spectre.Console.dll": {}
+          "lib/netstandard2.0/Spectre.Console.dll": {}
         },
         "runtime": {
-          "lib/net5.0/Spectre.Console.dll": {}
+          "lib/netstandard2.0/Spectre.Console.dll": {}
         }
       },
-      "Wcwidth/0.2.0": {
+      "System.Memory/4.5.5": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Wcwidth.dll": {}
+          "ref/netcoreapp2.1/_._": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Wcwidth.dll": {}
+          "lib/netcoreapp2.1/_._": {}
         }
       }
     }
   },
   "libraries": {
-    "Spectre.Console/0.42.0": {
-      "sha512": "S7W1pHhcDOvzPQE4TJtQvkkF1/zflCvF5E7rYgHJXFVT/rnPZE8o7GmHJbckY7LUUAZ1OllUJ3E5BxBzCVg+wQ==",
+    "Spectre.Console/0.45.0": {
+      "sha512": "e//13o8/BCrWmwN26eJ4zCzD2iq7iUlqQd+nDI9nJUdnJ/rYAanYiNFZZ7YHwlv48IKuKtRYYP6/wPt1DG67ww==",
       "type": "package",
-      "path": "spectre.console/0.42.0",
+      "path": "spectre.console/0.45.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "lib/net5.0/Spectre.Console.dll",
-        "lib/net5.0/Spectre.Console.xml",
+        "lib/net6.0/Spectre.Console.dll",
+        "lib/net6.0/Spectre.Console.xml",
         "lib/netstandard2.0/Spectre.Console.dll",
         "lib/netstandard2.0/Spectre.Console.xml",
         "small-logo.png",
-        "spectre.console.0.42.0.nupkg.sha512",
+        "spectre.console.0.45.0.nupkg.sha512",
         "spectre.console.nuspec"
       ]
     },
-    "Wcwidth/0.2.0": {
-      "sha512": "H7no2W0vuLJTvSPanlrijtG3UdJNVoeWBOp2a5dJFVa2tqSQuP5GfbJw1xAtPG9agRW310nFTUUsyPz5tuVIxw==",
+    "System.Memory/4.5.5": {
+      "sha512": "XIWiDvKPXaTveaB7HVganDlOCRoj03l+jrwNvcge/t8vhGYKvqV+dMv6G4SAX2NoNmN0wZfVPTAlFwZcZvVOUw==",
       "type": "package",
-      "path": "wcwidth/0.2.0",
+      "path": "system.memory/4.5.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "lib/netstandard2.0/Wcwidth.dll",
-        "lib/netstandard2.0/Wcwidth.xml",
-        "wcwidth.0.2.0.nupkg.sha512",
-        "wcwidth.nuspec"
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Memory.dll",
+        "lib/net461/System.Memory.xml",
+        "lib/netcoreapp2.1/_._",
+        "lib/netstandard1.1/System.Memory.dll",
+        "lib/netstandard1.1/System.Memory.xml",
+        "lib/netstandard2.0/System.Memory.dll",
+        "lib/netstandard2.0/System.Memory.xml",
+        "ref/netcoreapp2.1/_._",
+        "system.memory.4.5.5.nupkg.sha512",
+        "system.memory.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
       ]
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Spectre.Console >= 0.42.0"
+      "Spectre.Console >= 0.45.0"
     ]
   },
   "packageFolders": {
@@ -107,7 +117,7 @@
         "dependencies": {
           "Spectre.Console": {
             "target": "Package",
-            "version": "[0.42.0, )"
+            "version": "[0.45.0, )"
           }
         },
         "imports": [

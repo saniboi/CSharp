@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\03_Konzept_Vererbung\\03_Konzept_Vererbung.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\03_Konzept_Vererbung\\03_Konzept_Vererbung.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\03_Konzept_Vererbung\\03_Konzept_Vererbung.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\03_Konzept_Vererbung\\03_Konzept_Vererbung.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\03_Konzept_Vererbung\\03_Konzept_Vererbung.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\03_Konzept_Vererbung\\03_Konzept_Vererbung.csproj",
         "projectName": "03_Konzept_Vererbung",
-        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\03_Konzept_Vererbung\\03_Konzept_Vererbung.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\03_Konzept_Vererbung\\03_Konzept_Vererbung.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\03_Konzept_Vererbung\\obj\\",
         "projectStyle": "PackageReference",

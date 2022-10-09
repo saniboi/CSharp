@@ -1,0 +1,12 @@
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_3_Bücher_verarbeiten\bin\Debug\Testdaten\Bücher.xml
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_3_Bücher_verarbeiten\bin\Debug\Uebung_1_3_Bücher_verarbeiten.exe.config
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_3_Bücher_verarbeiten\bin\Debug\Uebung_1_3_Bücher_verarbeiten.exe
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_3_Bücher_verarbeiten\bin\Debug\Uebung_1_3_Bücher_verarbeiten.pdb
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_3_Bücher_verarbeiten\obj\Debug\Übung_1_3_Bücher_verarbeiten.csproj.AssemblyReference.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_3_Bücher_verarbeiten\obj\Debug\Übung_1_3_Bücher_verarbeiten.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_3_Bücher_verarbeiten\obj\Debug\Uebung_1_3_Bücher_verarbeiten.Hauptprogramm.resources
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_3_Bücher_verarbeiten\obj\Debug\Uebung_1_3_Bücher_verarbeiten.Properties.Resources.resources
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_3_Bücher_verarbeiten\obj\Debug\Übung_1_3_Bücher_verarbeiten.csproj.GenerateResource.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_3_Bücher_verarbeiten\obj\Debug\Übung_1_3_Bücher_verarbeiten.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_3_Bücher_verarbeiten\obj\Debug\Uebung_1_3_Bücher_verarbeiten.exe
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_3_Bücher_verarbeiten\obj\Debug\Uebung_1_3_Bücher_verarbeiten.pdb

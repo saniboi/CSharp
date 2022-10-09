@@ -1,0 +1,16 @@
+C:\Users\sanke\source\repos\CSharp\05b_x_Namensraum\bin\Debug\07_x_Namensraum.exe.config
+C:\Users\sanke\source\repos\CSharp\05b_x_Namensraum\bin\Debug\07_x_Namensraum.exe
+C:\Users\sanke\source\repos\CSharp\05b_x_Namensraum\bin\Debug\07_x_Namensraum.pdb
+C:\Users\sanke\source\repos\CSharp\05b_x_Namensraum\obj\Debug\06_x_Namensraum_Class_Name_Key.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\CSharp\05b_x_Namensraum\obj\Debug\06_x_Namensraum_Class_Name_Key.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\CSharp\05b_x_Namensraum\obj\Debug\MainWindow.g.cs
+C:\Users\sanke\source\repos\CSharp\05b_x_Namensraum\obj\Debug\App.g.cs
+C:\Users\sanke\source\repos\CSharp\05b_x_Namensraum\obj\Debug\07_x_Namensraum_MarkupCompile.cache
+C:\Users\sanke\source\repos\CSharp\05b_x_Namensraum\obj\Debug\07_x_Namensraum_MarkupCompile.lref
+C:\Users\sanke\source\repos\CSharp\05b_x_Namensraum\obj\Debug\MainWindow.baml
+C:\Users\sanke\source\repos\CSharp\05b_x_Namensraum\obj\Debug\07_x_Namensraum.g.resources
+C:\Users\sanke\source\repos\CSharp\05b_x_Namensraum\obj\Debug\_07_x_Namensraum.Properties.Resources.resources
+C:\Users\sanke\source\repos\CSharp\05b_x_Namensraum\obj\Debug\06_x_Namensraum_Class_Name_Key.csproj.GenerateResource.cache
+C:\Users\sanke\source\repos\CSharp\05b_x_Namensraum\obj\Debug\06_x_Namensraum_Class_Name_Key.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\CSharp\05b_x_Namensraum\obj\Debug\07_x_Namensraum.exe
+C:\Users\sanke\source\repos\CSharp\05b_x_Namensraum\obj\Debug\07_x_Namensraum.pdb

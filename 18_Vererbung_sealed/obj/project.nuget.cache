@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DzLQBKAzc/G5egwCSELZYEW/Ib/FMJ3fewH/vnvedi2hLAGFj0AEQrXkS7/5wDxzfKDRGBpGWsIDP4aQ4MHXKg==",
+  "dgSpecHash": "8oUxnTQisdW1riTr22CaffQbfbXLK64BIXBjR0gtwE9YsOJcCfiavJCpGigjmXDwdwIBMheWUYCC6V0jqysaOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\18_Vererbung_sealed\\18_Vererbung_sealed.csproj",
+  "projectFilePath": "C:\\Users\\sanke\\source\\repos\\CSharp\\18_Vererbung_sealed\\18_Vererbung_sealed.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

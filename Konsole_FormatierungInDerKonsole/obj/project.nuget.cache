@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "29xVoaGegxqU8mi71HH6wjmMc1/WJKncaZKkyWsfOanqNgA5cG1UZeZQb2W2XIgr4gEOw4kRI+6PvvO1fUiGsg==",
+  "dgSpecHash": "0GdKDOW9YPNdPeWNr1aIrIPhyGKIXYl4L8G9KAAvm0vgTVQxMM+P+mlRz2btC0TSrAqelhJZKPPHC98rZCRfVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\sanke\\source\\repos\\CSharp\\Konsole_FormatierungInDerKonsole\\Konsole_FormatierungInDerKonsole.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sanke\\.nuget\\packages\\spectre.console\\0.42.0\\spectre.console.0.42.0.nupkg.sha512",
-    "C:\\Users\\sanke\\.nuget\\packages\\wcwidth\\0.2.0\\wcwidth.0.2.0.nupkg.sha512"
+    "C:\\Users\\sanke\\.nuget\\packages\\spectre.console\\0.45.0\\spectre.console.0.45.0.nupkg.sha512",
+    "C:\\Users\\sanke\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
   ],
   "logs": []
 }

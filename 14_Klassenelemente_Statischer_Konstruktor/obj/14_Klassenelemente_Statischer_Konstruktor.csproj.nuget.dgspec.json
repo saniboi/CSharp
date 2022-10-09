@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\14_Klassenelemente_Statischer_Konstruktor\\14_Klassenelemente_Statischer_Konstruktor.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\14_Klassenelemente_Statischer_Konstruktor\\14_Klassenelemente_Statischer_Konstruktor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\14_Klassenelemente_Statischer_Konstruktor\\14_Klassenelemente_Statischer_Konstruktor.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\14_Klassenelemente_Statischer_Konstruktor\\14_Klassenelemente_Statischer_Konstruktor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\14_Klassenelemente_Statischer_Konstruktor\\14_Klassenelemente_Statischer_Konstruktor.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\14_Klassenelemente_Statischer_Konstruktor\\14_Klassenelemente_Statischer_Konstruktor.csproj",
         "projectName": "14_Klassenelemente_Statischer_Konstruktor",
-        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\14_Klassenelemente_Statischer_Konstruktor\\14_Klassenelemente_Statischer_Konstruktor.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\14_Klassenelemente_Statischer_Konstruktor\\14_Klassenelemente_Statischer_Konstruktor.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\14_Klassenelemente_Statischer_Konstruktor\\obj\\",
         "projectStyle": "PackageReference",

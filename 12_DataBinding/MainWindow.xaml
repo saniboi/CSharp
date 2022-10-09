@@ -1,0 +1,13 @@
+﻿<Window x:Class="_12_DataBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <!--Binding an ein DependencyProperty, welches irgendwo in der Hierarchie als DataContext eingebunden ist.-->
+        <!--"Binding" ist eine MarkupExtension-->
+        <Button x:Name="Button1" Content="Button" Background="{Binding ColorName}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="50,33,0,0" Height="43"/>
+    </Grid>
+</Window>

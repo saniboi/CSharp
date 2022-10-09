@@ -1,0 +1,133 @@
+﻿<Window x:Class="Prämienrechner.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModel="clr-namespace:Prämienrechner.ViewModel"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:model="clr-namespace:Prämienrechner.Model"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1000" WindowStartupLocation="CenterScreen" MinHeight="600" MinWidth="1000">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Resources/RundeButtons.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            <viewModel:MainViewModel x:Key="Vm"/>
+            <ObjectDataProvider x:Key="DataFromEnum" MethodName="GetValues" ObjectType="{x:Type sys:Enum}">
+                <ObjectDataProvider.MethodParameters>
+                    <x:Type TypeName="model:VersicherungsModell"/>
+                </ObjectDataProvider.MethodParameters>
+            </ObjectDataProvider>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF5F9847" Offset="0"/>
+            <GradientStop Color="White" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+
+    <Grid DataContext="{StaticResource Vm}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="10"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="1" Grid.Column="0" Margin="10 0 10 0"  FontSize="12" Padding="0" Width="Auto" VerticalAlignment="Top">Versicherungsnehmeranzeige</Label>
+        <ListView DataContext="{Binding }" ItemsSource="{Binding PersonView, Mode=OneWay}" Grid.Row="1" Grid.Column="0" Margin="10 20 10 5" SelectionMode="Single" Name="ListView">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding Vorname, TargetNullValue=[keine Angabe]}" Header="Vorname" Width="Auto"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Nachname, TargetNullValue=[keine Angabe]}" Header="Nachname" Width="Auto"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Franchise, TargetNullValue=[keine Angabe]}" Header="Franchise" Width="Auto"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding VModell, TargetNullValue=[keine Angabe]}" Header="VModell" Width="Auto"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Monatspraemie, TargetNullValue=[keine Angabe],StringFormat={}{0:N2}}" Header="Monatsprämie" Width="Auto"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Jahrespraemie, TargetNullValue=[keine Angabe],StringFormat={}{0:N2}}" Header="Jahresprämie" Width="Auto"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Grid DataContext="{Binding SelectedItem, ElementName=ListView}" Grid.Row="1" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="160*"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="15"/>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="10"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="1" FontSize="12" Padding="0" Margin="5,0,0,5" HorizontalAlignment="Left" Width="150" Height="16" VerticalAlignment="Bottom" Grid.ColumnSpan="2" >Person</Label>
+            <Label Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" FontSize="14" FontWeight="Bold">Vorname</Label>
+            <Label Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" FontSize="14" FontWeight="Bold">Nachname</Label>
+            <Label Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" FontSize="14" FontWeight="Bold">Franchise</Label>
+            <Label Grid.Row="4" Grid.Column="1" VerticalAlignment="Center" FontSize="14" FontWeight="Bold">Versicherungsmodell</Label>
+            <Label Grid.Row="5" Grid.Column="1" VerticalAlignment="Center" FontSize="14" FontWeight="Bold">Monatsprämie</Label>
+            <Label Grid.Row="6" Grid.Column="1" VerticalAlignment="Center" FontSize="14" FontWeight="Bold">Jahresprämie</Label>
+            <TextBox Text="{Binding Vorname, UpdateSourceTrigger=PropertyChanged, TargetNullValue=[keine Angabe]}" Padding="5" Grid.Column="2" Grid.Row="1" Width="Auto" Margin="2,2,2,2" FontFamily="Arial"/>
+            <TextBox Text="{Binding Nachname, UpdateSourceTrigger=PropertyChanged, TargetNullValue=[keine Angabe]}" Padding="5" Grid.Column="2" Grid.Row="2" Width="Auto" Margin="2,2,2,2" FontFamily="Arial"/>
+            <ComboBox ItemsSource="{Binding FranchiseValue}" SelectedValue="{Binding Franchise}" Padding="5" Grid.Column="2" Grid.Row="3" Width="Auto" Margin="2,2,2,2" FontFamily="Arial" SelectedIndex="0"/>
+            <ComboBox ItemsSource="{Binding Source={StaticResource DataFromEnum}, UpdateSourceTrigger=PropertyChanged}" SelectedValue="{Binding VModell}" Padding="5" Grid.Column="2" Grid.Row="4" Width="Auto" Margin="2,2,2,2" FontFamily="Arial" SelectedIndex="0"/>
+            <TextBox Text="{Binding Monatspraemie, UpdateSourceTrigger=PropertyChanged, TargetNullValue=[keine Angabe],StringFormat={}{0:N2}}" Padding="5" Grid.Column="2" Grid.Row="5" Width="Auto" Margin="2,2,2,2" FontFamily="Arial" IsEnabled="False"/>
+            <TextBox Text="{Binding Jahrespraemie, UpdateSourceTrigger=PropertyChanged, TargetNullValue=[keine Angabe],StringFormat={}{0:N2}}" Padding="5" Grid.Column="2" Grid.Row="6" Width="Auto" Margin="2,2,2,2" FontFamily="Arial" IsEnabled="False"/>
+
+            <Grid Name="GridInfo" Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="2" Margin="0,30,0,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" Padding="0" FontSize="12" Content="Kennzahlen"/>
+                <ListView Grid.Row="1" Margin="0 0 2 5" SelectionMode="Single" ItemsSource="{Binding gesamteinnahmenMonatliche/, Source={StaticResource Vm}}">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn DisplayMemberBinding="{Binding Januar, TargetNullValue=[keine Angabe]}" Header="Januar" Width="Auto"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Februar, TargetNullValue=[keine Angabe]}" Header="Februar" Width="Auto"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding März, TargetNullValue=[keine Angabe]}" Header="März" Width="Auto"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding April, TargetNullValue=[keine Angabe]}" Header="April" Width="Auto"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Mai, TargetNullValue=[keine Angabe]}" Header="Mai" Width="Auto"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Juni, TargetNullValue=[keine Angabe]}" Header="Juni" Width="Auto"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Juli, TargetNullValue=[keine Angabe]}" Header="Juli" Width="Auto"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding August, TargetNullValue=[keine Angabe]}" Header="August" Width="Auto"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding September, TargetNullValue=[keine Angabe]}" Header="September" Width="Auto"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Oktober, TargetNullValue=[keine Angabe]}" Header="Oktober" Width="Auto"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding November, TargetNullValue=[keine Angabe]}" Header="November" Width="Auto"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Dezember, TargetNullValue=[keine Angabe]}" Header="Dezember" Width="Auto"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </Grid>
+        </Grid>
+
+        <Grid Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Command="ApplicationCommands.New" Grid.Column="0" Width="Auto" Margin="10" Content="Eintrag Erfassen" Style="{DynamicResource RoundButton}"/>
+            <Button Command="ApplicationCommands.Save" Grid.Column="1" Width="Auto" Margin="10" Content="Speichern" Style="{DynamicResource RoundButton}"/>
+            <Button Command="ApplicationCommands.Delete" Grid.Column="2" Width="Auto" Margin="10" Content="Löschen" Style="{DynamicResource RoundButton}"/>
+        </Grid>
+
+    </Grid>
+</Window>

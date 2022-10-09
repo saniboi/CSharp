@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\02_HelloWorld_minimal\\02_HelloWorld_minimal.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\02_HelloWorld_minimal\\02_HelloWorld_minimal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\02_HelloWorld_minimal\\02_HelloWorld_minimal.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\02_HelloWorld_minimal\\02_HelloWorld_minimal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\02_HelloWorld_minimal\\02_HelloWorld_minimal.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\02_HelloWorld_minimal\\02_HelloWorld_minimal.csproj",
         "projectName": "02_HelloWorld_minimal",
-        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\02_HelloWorld_minimal\\02_HelloWorld_minimal.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\02_HelloWorld_minimal\\02_HelloWorld_minimal.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\02_HelloWorld_minimal\\obj\\",
         "projectStyle": "PackageReference",

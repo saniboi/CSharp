@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\11_Enumeratoren\\11_Enumeratoren.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\11_Enumeratoren\\11_Enumeratoren.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\11_Enumeratoren\\11_Enumeratoren.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\11_Enumeratoren\\11_Enumeratoren.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\11_Enumeratoren\\11_Enumeratoren.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\11_Enumeratoren\\11_Enumeratoren.csproj",
         "projectName": "11_Enumeratoren",
-        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\11_Enumeratoren\\11_Enumeratoren.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\11_Enumeratoren\\11_Enumeratoren.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\11_Enumeratoren\\obj\\",
         "projectStyle": "PackageReference",

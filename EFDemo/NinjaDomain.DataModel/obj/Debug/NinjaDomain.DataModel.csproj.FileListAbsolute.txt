@@ -1,0 +1,16 @@
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.pdb
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.Initial.resources
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.AddBirthdayToNinja.resources
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.GenerateResource.cache
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.CopyComplete
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.dll
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.pdb

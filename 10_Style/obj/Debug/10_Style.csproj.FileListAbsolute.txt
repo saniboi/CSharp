@@ -1,0 +1,15 @@
+C:\Users\sanke\source\repos\CSharp\10_Style\bin\Debug\10_Style.exe.config
+C:\Users\sanke\source\repos\CSharp\10_Style\bin\Debug\10_Style.exe
+C:\Users\sanke\source\repos\CSharp\10_Style\bin\Debug\10_Style.pdb
+C:\Users\sanke\source\repos\CSharp\10_Style\obj\Debug\10_Style.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\CSharp\10_Style\obj\Debug\10_Style.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\CSharp\10_Style\obj\Debug\MainWindow.baml
+C:\Users\sanke\source\repos\CSharp\10_Style\obj\Debug\MainWindow.g.cs
+C:\Users\sanke\source\repos\CSharp\10_Style\obj\Debug\App.g.cs
+C:\Users\sanke\source\repos\CSharp\10_Style\obj\Debug\10_Style_MarkupCompile.cache
+C:\Users\sanke\source\repos\CSharp\10_Style\obj\Debug\10_Style.g.resources
+C:\Users\sanke\source\repos\CSharp\10_Style\obj\Debug\_10_Style.Properties.Resources.resources
+C:\Users\sanke\source\repos\CSharp\10_Style\obj\Debug\10_Style.csproj.GenerateResource.cache
+C:\Users\sanke\source\repos\CSharp\10_Style\obj\Debug\10_Style.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\CSharp\10_Style\obj\Debug\10_Style.exe
+C:\Users\sanke\source\repos\CSharp\10_Style\obj\Debug\10_Style.pdb

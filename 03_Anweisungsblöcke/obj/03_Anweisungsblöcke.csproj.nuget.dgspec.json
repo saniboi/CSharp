@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\03_Anweisungsblöcke\\03_Anweisungsblöcke.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\03_Anweisungsblöcke\\03_Anweisungsblöcke.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\03_Anweisungsblöcke\\03_Anweisungsblöcke.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\03_Anweisungsblöcke\\03_Anweisungsblöcke.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\03_Anweisungsblöcke\\03_Anweisungsblöcke.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\03_Anweisungsblöcke\\03_Anweisungsblöcke.csproj",
         "projectName": "03_Anweisungsblöcke",
-        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\03_Anweisungsblöcke\\03_Anweisungsblöcke.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\03_Anweisungsblöcke\\03_Anweisungsblöcke.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\03_Anweisungsblöcke\\obj\\",
         "projectStyle": "PackageReference",

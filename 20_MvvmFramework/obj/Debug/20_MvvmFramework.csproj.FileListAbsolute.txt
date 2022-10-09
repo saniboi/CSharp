@@ -1,0 +1,6 @@
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_MvvmFramework\bin\Debug\20_MvvmFramework.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_MvvmFramework\bin\Debug\20_MvvmFramework.pdb
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_MvvmFramework\obj\Debug\20_MvvmFramework.csproj.AssemblyReference.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_MvvmFramework\obj\Debug\20_MvvmFramework.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_MvvmFramework\obj\Debug\20_MvvmFramework.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_MvvmFramework\obj\Debug\20_MvvmFramework.pdb

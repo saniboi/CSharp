@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\08_Klassenelemente_Partielle_Klassen\\08_Klassenelemente_Partielle_Klassen.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\08_Klassenelemente_Partielle_Klassen\\08_Klassenelemente_Partielle_Klassen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\08_Klassenelemente_Partielle_Klassen\\08_Klassenelemente_Partielle_Klassen.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\08_Klassenelemente_Partielle_Klassen\\08_Klassenelemente_Partielle_Klassen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\08_Klassenelemente_Partielle_Klassen\\08_Klassenelemente_Partielle_Klassen.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\08_Klassenelemente_Partielle_Klassen\\08_Klassenelemente_Partielle_Klassen.csproj",
         "projectName": "08_Klassenelemente_Partielle_Klassen",
-        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\08_Klassenelemente_Partielle_Klassen\\08_Klassenelemente_Partielle_Klassen.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\08_Klassenelemente_Partielle_Klassen\\08_Klassenelemente_Partielle_Klassen.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\08_Klassenelemente_Partielle_Klassen\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,0 +1,12 @@
+C:\Users\sanke\source\repos\CSharp\Wetterstationssimulator\bin\Debug\Wetterstationssimulator.exe.config
+C:\Users\sanke\source\repos\CSharp\Wetterstationssimulator\bin\Debug\Wetterstationssimulator.exe
+C:\Users\sanke\source\repos\CSharp\Wetterstationssimulator\bin\Debug\Wetterstationssimulator.pdb
+C:\Users\sanke\source\repos\CSharp\Wetterstationssimulator\obj\Debug\Wetterstationssimulator.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\CSharp\Wetterstationssimulator\obj\Debug\Wetterstationssimulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\CSharp\Wetterstationssimulator\obj\Debug\Wetterstationssimulator.csproj.ResolveComReference.cache
+C:\Users\sanke\source\repos\CSharp\Wetterstationssimulator\obj\Debug\Wetterstationssimulator.Form1.resources
+C:\Users\sanke\source\repos\CSharp\Wetterstationssimulator\obj\Debug\Wetterstationssimulator.Properties.Resources.resources
+C:\Users\sanke\source\repos\CSharp\Wetterstationssimulator\obj\Debug\Wetterstationssimulator.csproj.GenerateResource.cache
+C:\Users\sanke\source\repos\CSharp\Wetterstationssimulator\obj\Debug\Wetterstationssimulator.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\CSharp\Wetterstationssimulator\obj\Debug\Wetterstationssimulator.exe
+C:\Users\sanke\source\repos\CSharp\Wetterstationssimulator\obj\Debug\Wetterstationssimulator.pdb

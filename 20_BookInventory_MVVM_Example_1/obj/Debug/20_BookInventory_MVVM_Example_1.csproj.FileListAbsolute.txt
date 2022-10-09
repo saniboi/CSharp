@@ -1,0 +1,17 @@
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\bin\Debug\20_BookInventory_MVVM_Example_1.exe.config
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\bin\Debug\20_BookInventory_MVVM_Example_1.exe
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\bin\Debug\20_BookInventory_MVVM_Example_1.pdb
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\obj\Debug\20_BookInventory_MVVM_Example_1.csproj.AssemblyReference.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\obj\Debug\20_BookInventory_MVVM_Example_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\obj\Debug\MainWindow.g.cs
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\obj\Debug\App.g.cs
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\obj\Debug\20_BookInventory_MVVM_Example_1_MarkupCompile.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\obj\Debug\20_BookInventory_MVVM_Example_1_MarkupCompile.lref
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\obj\Debug\MainWindow.baml
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\obj\Debug\20_BookInventory_MVVM_Example_1.g.resources
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\obj\Debug\_20_BookInventory_MVVM_Example_1.Properties.Resources.resources
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\obj\Debug\20_BookInventory_MVVM_Example_1.csproj.GenerateResource.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\obj\Debug\20_BookInventory_MVVM_Example_1.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\obj\Debug\20_BookInventory_MVVM_Example_1.exe
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\20_BookInventory_MVVM_Example_1\obj\Debug\20_BookInventory_MVVM_Example_1.pdb

@@ -1,0 +1,11 @@
+C:\Users\sanke\source\repos\CSharp\00_Problem_Blockiertes_UI\bin\Debug\00_Problem_Blockiertes_UI.exe.config
+C:\Users\sanke\source\repos\CSharp\00_Problem_Blockiertes_UI\bin\Debug\00_Problem_Blockiertes_UI.exe
+C:\Users\sanke\source\repos\CSharp\00_Problem_Blockiertes_UI\bin\Debug\00_Problem_Blockiertes_UI.pdb
+C:\Users\sanke\source\repos\CSharp\00_Problem_Blockiertes_UI\obj\Debug\00_Problem_blockiertes_UI.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\CSharp\00_Problem_Blockiertes_UI\obj\Debug\00_Problem_blockiertes_UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\CSharp\00_Problem_Blockiertes_UI\obj\Debug\_00_Problem_Blockiertes_UI.Form1.resources
+C:\Users\sanke\source\repos\CSharp\00_Problem_Blockiertes_UI\obj\Debug\_00_Problem_Blockiertes_UI.Properties.Resources.resources
+C:\Users\sanke\source\repos\CSharp\00_Problem_Blockiertes_UI\obj\Debug\00_Problem_blockiertes_UI.csproj.GenerateResource.cache
+C:\Users\sanke\source\repos\CSharp\00_Problem_Blockiertes_UI\obj\Debug\00_Problem_blockiertes_UI.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\CSharp\00_Problem_Blockiertes_UI\obj\Debug\00_Problem_Blockiertes_UI.exe
+C:\Users\sanke\source\repos\CSharp\00_Problem_Blockiertes_UI\obj\Debug\00_Problem_Blockiertes_UI.pdb

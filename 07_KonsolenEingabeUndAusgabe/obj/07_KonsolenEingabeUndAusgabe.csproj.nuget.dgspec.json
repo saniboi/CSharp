@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\07_KonsolenEingabeUndAusgabe\\07_KonsolenEingabeUndAusgabe.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\07_KonsolenEingabeUndAusgabe\\07_KonsolenEingabeUndAusgabe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\07_KonsolenEingabeUndAusgabe\\07_KonsolenEingabeUndAusgabe.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\07_KonsolenEingabeUndAusgabe\\07_KonsolenEingabeUndAusgabe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\07_KonsolenEingabeUndAusgabe\\07_KonsolenEingabeUndAusgabe.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\07_KonsolenEingabeUndAusgabe\\07_KonsolenEingabeUndAusgabe.csproj",
         "projectName": "07_KonsolenEingabeUndAusgabe",
-        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\07_KonsolenEingabeUndAusgabe\\07_KonsolenEingabeUndAusgabe.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\07_KonsolenEingabeUndAusgabe\\07_KonsolenEingabeUndAusgabe.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\07_KonsolenEingabeUndAusgabe\\obj\\",
         "projectStyle": "PackageReference",

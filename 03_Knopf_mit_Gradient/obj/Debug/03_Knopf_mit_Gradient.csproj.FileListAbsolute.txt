@@ -1,0 +1,15 @@
+C:\Users\sanke\source\repos\CSharp\03_Knopf_mit_Gradient\bin\Debug\03_Knopf_mit_Gradient.exe.config
+C:\Users\sanke\source\repos\CSharp\03_Knopf_mit_Gradient\bin\Debug\03_Knopf_mit_Gradient.exe
+C:\Users\sanke\source\repos\CSharp\03_Knopf_mit_Gradient\bin\Debug\03_Knopf_mit_Gradient.pdb
+C:\Users\sanke\source\repos\CSharp\03_Knopf_mit_Gradient\obj\Debug\03_Knopf_mit_Gradient.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\CSharp\03_Knopf_mit_Gradient\obj\Debug\03_Knopf_mit_Gradient.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\CSharp\03_Knopf_mit_Gradient\obj\Debug\MainWindow.baml
+C:\Users\sanke\source\repos\CSharp\03_Knopf_mit_Gradient\obj\Debug\MainWindow.g.cs
+C:\Users\sanke\source\repos\CSharp\03_Knopf_mit_Gradient\obj\Debug\App.g.cs
+C:\Users\sanke\source\repos\CSharp\03_Knopf_mit_Gradient\obj\Debug\03_Knopf_mit_Gradient_MarkupCompile.cache
+C:\Users\sanke\source\repos\CSharp\03_Knopf_mit_Gradient\obj\Debug\03_Knopf_mit_Gradient.g.resources
+C:\Users\sanke\source\repos\CSharp\03_Knopf_mit_Gradient\obj\Debug\_03_Knopf_mit_Gradient.Properties.Resources.resources
+C:\Users\sanke\source\repos\CSharp\03_Knopf_mit_Gradient\obj\Debug\03_Knopf_mit_Gradient.csproj.GenerateResource.cache
+C:\Users\sanke\source\repos\CSharp\03_Knopf_mit_Gradient\obj\Debug\03_Knopf_mit_Gradient.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\CSharp\03_Knopf_mit_Gradient\obj\Debug\03_Knopf_mit_Gradient.exe
+C:\Users\sanke\source\repos\CSharp\03_Knopf_mit_Gradient\obj\Debug\03_Knopf_mit_Gradient.pdb

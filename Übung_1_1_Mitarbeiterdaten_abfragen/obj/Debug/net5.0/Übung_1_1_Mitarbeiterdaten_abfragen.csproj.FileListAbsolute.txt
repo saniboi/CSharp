@@ -1,0 +1,16 @@
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_1_Mitarbeiterdaten_abfragen\bin\Debug\net5.0\Übung_1_1_Mitarbeiterdaten_abfragen.exe
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_1_Mitarbeiterdaten_abfragen\bin\Debug\net5.0\Übung_1_1_Mitarbeiterdaten_abfragen.deps.json
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_1_Mitarbeiterdaten_abfragen\bin\Debug\net5.0\Übung_1_1_Mitarbeiterdaten_abfragen.runtimeconfig.json
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_1_Mitarbeiterdaten_abfragen\bin\Debug\net5.0\Übung_1_1_Mitarbeiterdaten_abfragen.runtimeconfig.dev.json
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_1_Mitarbeiterdaten_abfragen\bin\Debug\net5.0\Übung_1_1_Mitarbeiterdaten_abfragen.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_1_Mitarbeiterdaten_abfragen\bin\Debug\net5.0\Übung_1_1_Mitarbeiterdaten_abfragen.pdb
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_1_Mitarbeiterdaten_abfragen\obj\Debug\net5.0\Übung_1_1_Mitarbeiterdaten_abfragen.csproj.AssemblyReference.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_1_Mitarbeiterdaten_abfragen\obj\Debug\net5.0\Übung_1_1_Mitarbeiterdaten_abfragen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_1_Mitarbeiterdaten_abfragen\obj\Debug\net5.0\Übung_1_1_Mitarbeiterdaten_abfragen.AssemblyInfoInputs.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_1_Mitarbeiterdaten_abfragen\obj\Debug\net5.0\Übung_1_1_Mitarbeiterdaten_abfragen.AssemblyInfo.cs
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_1_Mitarbeiterdaten_abfragen\obj\Debug\net5.0\Übung_1_1_Mitarbeiterdaten_abfragen.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_1_Mitarbeiterdaten_abfragen\obj\Debug\net5.0\Übung_1_1_Mitarbeiterdaten_abfragen.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_1_Mitarbeiterdaten_abfragen\obj\Debug\net5.0\refint\Übung_1_1_Mitarbeiterdaten_abfragen.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_1_Mitarbeiterdaten_abfragen\obj\Debug\net5.0\Übung_1_1_Mitarbeiterdaten_abfragen.pdb
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_1_Mitarbeiterdaten_abfragen\obj\Debug\net5.0\Übung_1_1_Mitarbeiterdaten_abfragen.genruntimeconfig.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_1_Mitarbeiterdaten_abfragen\obj\Debug\net5.0\ref\Übung_1_1_Mitarbeiterdaten_abfragen.dll

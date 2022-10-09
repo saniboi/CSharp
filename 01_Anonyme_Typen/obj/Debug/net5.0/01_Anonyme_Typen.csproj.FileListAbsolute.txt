@@ -1,0 +1,16 @@
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\01_Anonyme_Typen\bin\Debug\net5.0\01_Anonyme_Typen.exe
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\01_Anonyme_Typen\bin\Debug\net5.0\01_Anonyme_Typen.deps.json
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\01_Anonyme_Typen\bin\Debug\net5.0\01_Anonyme_Typen.runtimeconfig.json
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\01_Anonyme_Typen\bin\Debug\net5.0\01_Anonyme_Typen.runtimeconfig.dev.json
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\01_Anonyme_Typen\bin\Debug\net5.0\01_Anonyme_Typen.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\01_Anonyme_Typen\bin\Debug\net5.0\01_Anonyme_Typen.pdb
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\01_Anonyme_Typen\obj\Debug\net5.0\01_Anonyme_Typen.csproj.AssemblyReference.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\01_Anonyme_Typen\obj\Debug\net5.0\01_Anonyme_Typen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\01_Anonyme_Typen\obj\Debug\net5.0\01_Anonyme_Typen.AssemblyInfoInputs.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\01_Anonyme_Typen\obj\Debug\net5.0\01_Anonyme_Typen.AssemblyInfo.cs
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\01_Anonyme_Typen\obj\Debug\net5.0\01_Anonyme_Typen.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\01_Anonyme_Typen\obj\Debug\net5.0\01_Anonyme_Typen.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\01_Anonyme_Typen\obj\Debug\net5.0\refint\01_Anonyme_Typen.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\01_Anonyme_Typen\obj\Debug\net5.0\01_Anonyme_Typen.pdb
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\01_Anonyme_Typen\obj\Debug\net5.0\01_Anonyme_Typen.genruntimeconfig.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\01_Anonyme_Typen\obj\Debug\net5.0\ref\01_Anonyme_Typen.dll

@@ -1,0 +1,11 @@
+C:\Users\sanke\source\repos\CSharp\Einkaufsplaner\obj\Debug\Einkaufsplaner.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\CSharp\Einkaufsplaner\obj\Debug\Einkaufsplaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\CSharp\Einkaufsplaner\obj\Debug\Einkaufsplaner.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\CSharp\Einkaufsplaner\bin\Debug\Einkaufsplaner.exe.config
+C:\Users\sanke\source\repos\CSharp\Einkaufsplaner\bin\Debug\Einkaufsplaner.exe
+C:\Users\sanke\source\repos\CSharp\Einkaufsplaner\bin\Debug\Einkaufsplaner.pdb
+C:\Users\sanke\source\repos\CSharp\Einkaufsplaner\bin\Debug\Spectre.Console.dll
+C:\Users\sanke\source\repos\CSharp\Einkaufsplaner\bin\Debug\Spectre.Console.xml
+C:\Users\sanke\source\repos\CSharp\Einkaufsplaner\obj\Debug\Einkaufsplaner.csproj.CopyComplete
+C:\Users\sanke\source\repos\CSharp\Einkaufsplaner\obj\Debug\Einkaufsplaner.exe
+C:\Users\sanke\source\repos\CSharp\Einkaufsplaner\obj\Debug\Einkaufsplaner.pdb

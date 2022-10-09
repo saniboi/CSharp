@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Übung_1_1_Mitarbeiterdaten_abfragen/1.0.0": {
+        "runtime": {
+          "Übung_1_1_Mitarbeiterdaten_abfragen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Übung_1_1_Mitarbeiterdaten_abfragen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

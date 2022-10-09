@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\18_Vererbung_sealed\\18_Vererbung_sealed.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\18_Vererbung_sealed\\18_Vererbung_sealed.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\18_Vererbung_sealed\\18_Vererbung_sealed.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\18_Vererbung_sealed\\18_Vererbung_sealed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\18_Vererbung_sealed\\18_Vererbung_sealed.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\18_Vererbung_sealed\\18_Vererbung_sealed.csproj",
         "projectName": "18_Vererbung_sealed",
-        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\18_Vererbung_sealed\\18_Vererbung_sealed.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\18_Vererbung_sealed\\18_Vererbung_sealed.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\18_Vererbung_sealed\\obj\\",
+        "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\18_Vererbung_sealed\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

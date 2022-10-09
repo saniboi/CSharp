@@ -1,0 +1,30 @@
+﻿<!-- Tunneling-Events kommen zuerst und sind mit Präfix Preview gekennzeichnet -->
+<!-- Dann kommen Bubbling-Events -->
+<Window x:Class="RoutedEventSample1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="RoutedEventSample1" Height="350" Width="525"
+        PreviewMouseRightButtonDown="PreviewMouseRight" MouseRightButtonDown="MouseRight">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF6C70BD"/>
+            <GradientStop Color="#FFA7B0F1" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid PreviewMouseRightButtonDown="PreviewMouseRight" MouseRightButtonDown="MouseRight">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Button Margin="40,10,277,10" Height="70" Width="200" PreviewMouseRightButtonDown="PreviewMouseRight" MouseRightButtonDown="MouseRight">
+            <StackPanel Orientation="Horizontal" PreviewMouseRightButtonDown="PreviewMouseRight" MouseRightButtonDown="MouseRight">
+                <Image Source="smile.gif" Stretch="None" Margin="5" PreviewMouseRightButtonDown="PreviewMouseRight" MouseRightButtonDown="MouseRight"/>
+                <Label FontSize="18" VerticalAlignment="Center" PreviewMouseRightButtonDown="PreviewMouseRight" MouseRightButtonDown="MouseRight">OK</Label>
+            </StackPanel>
+        </Button>
+        <ListBox Grid.Row="1" Name="MyListBox" Margin="5" />
+        <Button Grid.Row="2" FontSize="14" Width="140" HorizontalAlignment="Right" Margin="5" Click="ListeLöschen_Click">Liste löschen</Button>
+        <Label Content="- Rechtsklick machen (nicht Linksklick)&#xA;- Einmal auf Button klicken&#xA;- Einmal auf Smiley klicken&#xA;- Einmal auf Ok-Label klicken&#xD;&#xA;- Einmal ausserhalb des Knopfs klicken" HorizontalAlignment="Left" Margin="265,10,0,0" VerticalAlignment="Top" Height="70" Width="230" FontSize="8"/>
+    </Grid>
+</Window>

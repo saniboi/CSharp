@@ -1,0 +1,23 @@
+﻿<Window x:Class="_14_ValueConverter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_14_ValueConverter"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <local:YesNoToBooleanConverter x:Key="YesNoToBooleanConverter" />
+    </Window.Resources>
+    <StackPanel Margin="10">
+        <Label Content="Eine Source: TextBox" FontWeight="Bold"/>
+        <Label Content="Von Hand yes, oui, no oder non in die TextBox schreiben:"/>
+        <TextBox Name="TxtValue" />
+        <Label Content="Zwei Targets: TextBlock und CheckBox" FontWeight="Bold"/>
+        <WrapPanel Margin="0,10">
+            <TextBlock Text="Current value is: " />
+            <TextBlock Text="{Binding ElementName=TxtValue, Path=Text, Converter={StaticResource YesNoToBooleanConverter}}"></TextBlock>
+        </WrapPanel>
+        <CheckBox IsChecked="{Binding ElementName=TxtValue, Path=Text, Converter={StaticResource YesNoToBooleanConverter}}" Content="Checkbox-Werte ändern" />
+    </StackPanel>
+</Window>

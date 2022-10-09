@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\01_try_catch\\01_try_catch.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\01_try_catch\\01_try_catch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\01_try_catch\\01_try_catch.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\01_try_catch\\01_try_catch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\01_try_catch\\01_try_catch.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\01_try_catch\\01_try_catch.csproj",
         "projectName": "01_try_catch",
-        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\01_try_catch\\01_try_catch.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\01_try_catch\\01_try_catch.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\01_try_catch\\obj\\",
         "projectStyle": "PackageReference",

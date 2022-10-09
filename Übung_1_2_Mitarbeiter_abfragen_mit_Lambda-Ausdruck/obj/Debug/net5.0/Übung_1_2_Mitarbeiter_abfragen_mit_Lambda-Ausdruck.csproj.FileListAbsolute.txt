@@ -1,0 +1,16 @@
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck\bin\Debug\net5.0\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck.exe
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck\bin\Debug\net5.0\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck.deps.json
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck\bin\Debug\net5.0\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck.runtimeconfig.json
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck\bin\Debug\net5.0\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck.runtimeconfig.dev.json
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck\bin\Debug\net5.0\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck\bin\Debug\net5.0\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck.pdb
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck\obj\Debug\net5.0\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck.csproj.AssemblyReference.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck\obj\Debug\net5.0\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck\obj\Debug\net5.0\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck.AssemblyInfoInputs.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck\obj\Debug\net5.0\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck.AssemblyInfo.cs
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck\obj\Debug\net5.0\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck\obj\Debug\net5.0\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck\obj\Debug\net5.0\refint\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck\obj\Debug\net5.0\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck.pdb
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck\obj\Debug\net5.0\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck.genruntimeconfig.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck\obj\Debug\net5.0\ref\Übung_1_2_Mitarbeiter_abfragen_mit_Lambda-Ausdruck.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mLJAlYsrWlH4xC0TiyBN5/A73VTQE03lN28sAnZRM0k2lHN2ZxFwEeGC59zlf/PM7nYhA9+JA3ihh2VAgmJv+w==",
+  "dgSpecHash": "ylZSK4qeODPIzQwlrrma28yBvWqeWV0ShbyFGoz//8MRjt9T1W9s2QZfEBFBn1iDNyjt5ilJDxQ+XdiA9e+vVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\05_Namensräume\\05_Namensräume.csproj",
+  "projectFilePath": "C:\\Users\\sanke\\source\\repos\\CSharp\\05_Namensräume\\05_Namensräume.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

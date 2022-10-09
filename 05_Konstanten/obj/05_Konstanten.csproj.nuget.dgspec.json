@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\05_Konstanten\\05_Konstanten.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\05_Konstanten\\05_Konstanten.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\05_Konstanten\\05_Konstanten.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\05_Konstanten\\05_Konstanten.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\05_Konstanten\\05_Konstanten.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\05_Konstanten\\05_Konstanten.csproj",
         "projectName": "05_Konstanten",
-        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\05_Konstanten\\05_Konstanten.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\05_Konstanten\\05_Konstanten.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\05_Konstanten\\obj\\",
         "projectStyle": "PackageReference",

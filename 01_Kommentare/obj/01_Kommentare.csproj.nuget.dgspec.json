@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\01_Kommentare\\01_Kommentare.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\01_Kommentare\\01_Kommentare.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\01_Kommentare\\01_Kommentare.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\01_Kommentare\\01_Kommentare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\01_Kommentare\\01_Kommentare.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\01_Kommentare\\01_Kommentare.csproj",
         "projectName": "01_Kommentare",
-        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\01_Kommentare\\01_Kommentare.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\01_Kommentare\\01_Kommentare.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\01_Kommentare\\obj\\",
         "projectStyle": "PackageReference",

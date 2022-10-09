@@ -1,0 +1,17 @@
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\bin\Debug\14_ValueConverter.exe.config
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\bin\Debug\14_ValueConverter.exe
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\bin\Debug\14_ValueConverter.pdb
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\obj\Debug\14_ValueConverter.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\obj\Debug\14_ValueConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\obj\Debug\MainWindow.g.cs
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\obj\Debug\App.g.cs
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\obj\Debug\14_ValueConverter_MarkupCompile.cache
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\obj\Debug\14_ValueConverter_MarkupCompile.lref
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\obj\Debug\MainWindow.baml
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\obj\Debug\14_ValueConverter.g.resources
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\obj\Debug\_14_ValueConverter.Properties.Resources.resources
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\obj\Debug\14_ValueConverter.csproj.GenerateResource.cache
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\obj\Debug\14_ValueConverter.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\obj\Debug\14_ValueConverter.exe
+C:\Users\sanke\source\repos\CSharp\14_ValueConverter\obj\Debug\14_ValueConverter.pdb

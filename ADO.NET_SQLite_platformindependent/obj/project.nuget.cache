@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E2/p02MTFf2D2eoeMr9uhAEQ7fV9xD2h8DCq09Eq+sOYjQbvzLXO6bCpPfWqLl/QlPa0nCXnKxNxXfFyni+7pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sanke\\source\\repos\\CSharp\\ADO.NET_SQLite_platformindependent\\ADO.NET_SQLite_platformindependent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanke\\.nuget\\packages\\spectre.console\\0.43.0\\spectre.console.0.43.0.nupkg.sha512",
+    "C:\\Users\\sanke\\.nuget\\packages\\system.data.sqlite.core\\1.0.109.2\\system.data.sqlite.core.1.0.109.2.nupkg.sha512"
+  ],
+  "logs": []
+}

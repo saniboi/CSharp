@@ -1,0 +1,17 @@
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\bin\Debug\NinjaDomain.ConsoleApplication.exe.config
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\bin\Debug\NinjaDomain.ConsoleApplication.exe
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\bin\Debug\NinjaDomain.ConsoleApplication.pdb
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\bin\Debug\NinjaDomain.DataModel.dll
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\bin\Debug\NinjaDomain.DataModel.pdb
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\obj\Debug\NinjaDomain.ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\obj\Debug\NinjaDomain.ConsoleApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\obj\Debug\NinjaDomain.ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\obj\Debug\NinjaDomain.ConsoleApplication.csproj.CopyComplete
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\obj\Debug\NinjaDomain.ConsoleApplication.exe
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\EFDemo\NinjaDomain.ConsoleApplication\obj\Debug\NinjaDomain.ConsoleApplication.pdb

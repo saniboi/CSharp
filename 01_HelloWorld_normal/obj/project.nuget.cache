@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MkcRqkELl41Vm7YPldqqHh86IdsaFpT6g+yN+9VlpOYCsZMpZXuBwp/bwQVQj9DV07kTaHO0lY83A3DxuDDV3Q==",
+  "dgSpecHash": "VDfVNk7I4TWiv0v4Kyx7uGeYX2C0w6zlNubyI0G+xFf1LHp+aSXp5WT9PbjZd7vImyT3MKtdGwfS+vNx4T+69g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\01_HelloWorld_normal\\01_HelloWorld_normal.csproj",
+  "projectFilePath": "C:\\Users\\sanke\\source\\repos\\CSharp\\01_HelloWorld_normal\\01_HelloWorld_normal.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,16 @@
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\03_Lambdas\bin\Debug\net5.0\03_Lambdas.exe
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\03_Lambdas\bin\Debug\net5.0\03_Lambdas.deps.json
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\03_Lambdas\bin\Debug\net5.0\03_Lambdas.runtimeconfig.json
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\03_Lambdas\bin\Debug\net5.0\03_Lambdas.runtimeconfig.dev.json
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\03_Lambdas\bin\Debug\net5.0\03_Lambdas.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\03_Lambdas\bin\Debug\net5.0\03_Lambdas.pdb
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\03_Lambdas\obj\Debug\net5.0\03_Lambdas.csproj.AssemblyReference.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\03_Lambdas\obj\Debug\net5.0\03_Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\03_Lambdas\obj\Debug\net5.0\03_Lambdas.AssemblyInfoInputs.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\03_Lambdas\obj\Debug\net5.0\03_Lambdas.AssemblyInfo.cs
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\03_Lambdas\obj\Debug\net5.0\03_Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\03_Lambdas\obj\Debug\net5.0\03_Lambdas.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\03_Lambdas\obj\Debug\net5.0\refint\03_Lambdas.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\03_Lambdas\obj\Debug\net5.0\03_Lambdas.pdb
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\03_Lambdas\obj\Debug\net5.0\03_Lambdas.genruntimeconfig.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\03_Lambdas\obj\Debug\net5.0\ref\03_Lambdas.dll

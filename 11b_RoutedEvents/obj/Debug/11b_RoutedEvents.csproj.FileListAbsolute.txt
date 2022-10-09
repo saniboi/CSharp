@@ -1,0 +1,15 @@
+C:\Users\sanke\source\repos\CSharp\11b_RoutedEvents\bin\Debug\RoutedEventSample1.exe.config
+C:\Users\sanke\source\repos\CSharp\11b_RoutedEvents\bin\Debug\RoutedEventSample1.exe
+C:\Users\sanke\source\repos\CSharp\11b_RoutedEvents\bin\Debug\RoutedEventSample1.pdb
+C:\Users\sanke\source\repos\CSharp\11b_RoutedEvents\obj\Debug\11b_RoutedEvents.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\CSharp\11b_RoutedEvents\obj\Debug\11b_RoutedEvents.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\CSharp\11b_RoutedEvents\obj\Debug\MainWindow.baml
+C:\Users\sanke\source\repos\CSharp\11b_RoutedEvents\obj\Debug\MainWindow.g.cs
+C:\Users\sanke\source\repos\CSharp\11b_RoutedEvents\obj\Debug\App.g.cs
+C:\Users\sanke\source\repos\CSharp\11b_RoutedEvents\obj\Debug\RoutedEventSample1_MarkupCompile.cache
+C:\Users\sanke\source\repos\CSharp\11b_RoutedEvents\obj\Debug\RoutedEventSample1.g.resources
+C:\Users\sanke\source\repos\CSharp\11b_RoutedEvents\obj\Debug\RoutedEventSample1.Properties.Resources.resources
+C:\Users\sanke\source\repos\CSharp\11b_RoutedEvents\obj\Debug\11b_RoutedEvents.csproj.GenerateResource.cache
+C:\Users\sanke\source\repos\CSharp\11b_RoutedEvents\obj\Debug\11b_RoutedEvents.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\CSharp\11b_RoutedEvents\obj\Debug\RoutedEventSample1.exe
+C:\Users\sanke\source\repos\CSharp\11b_RoutedEvents\obj\Debug\RoutedEventSample1.pdb

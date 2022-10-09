@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\03_HelloWorld_full\\03_HelloWorld_full.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\03_HelloWorld_full\\03_HelloWorld_full.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\03_HelloWorld_full\\03_HelloWorld_full.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\03_HelloWorld_full\\03_HelloWorld_full.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\03_HelloWorld_full\\03_HelloWorld_full.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\03_HelloWorld_full\\03_HelloWorld_full.csproj",
         "projectName": "03_HelloWorld_full",
-        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\03_HelloWorld_full\\03_HelloWorld_full.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\03_HelloWorld_full\\03_HelloWorld_full.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\03_HelloWorld_full\\obj\\",
         "projectStyle": "PackageReference",

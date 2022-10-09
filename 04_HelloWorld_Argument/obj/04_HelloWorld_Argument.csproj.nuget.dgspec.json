@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\04_HelloWorld_Argument\\04_HelloWorld_Argument.csproj": {}
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\04_HelloWorld_Argument\\04_HelloWorld_Argument.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanke\\Source\\Repos\\CSharp\\04_HelloWorld_Argument\\04_HelloWorld_Argument.csproj": {
+    "C:\\Users\\sanke\\source\\repos\\CSharp\\04_HelloWorld_Argument\\04_HelloWorld_Argument.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\04_HelloWorld_Argument\\04_HelloWorld_Argument.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\source\\repos\\CSharp\\04_HelloWorld_Argument\\04_HelloWorld_Argument.csproj",
         "projectName": "04_HelloWorld_Argument",
-        "projectPath": "C:\\Users\\sanke\\Source\\Repos\\CSharp\\04_HelloWorld_Argument\\04_HelloWorld_Argument.csproj",
+        "projectPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\04_HelloWorld_Argument\\04_HelloWorld_Argument.csproj",
         "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sanke\\source\\repos\\CSharp\\04_HelloWorld_Argument\\obj\\",
         "projectStyle": "PackageReference",
@@ -43,6 +43,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

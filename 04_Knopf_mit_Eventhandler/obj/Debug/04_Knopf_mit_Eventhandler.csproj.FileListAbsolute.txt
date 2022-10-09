@@ -1,0 +1,15 @@
+C:\Users\sanke\source\repos\CSharp\04_Knopf_mit_Eventhandler\bin\Debug\04_Knopf_mit_Eventhandler.exe.config
+C:\Users\sanke\source\repos\CSharp\04_Knopf_mit_Eventhandler\bin\Debug\04_Knopf_mit_Eventhandler.exe
+C:\Users\sanke\source\repos\CSharp\04_Knopf_mit_Eventhandler\bin\Debug\04_Knopf_mit_Eventhandler.pdb
+C:\Users\sanke\source\repos\CSharp\04_Knopf_mit_Eventhandler\obj\Debug\04_Knopf_mit_Eventhandler.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\CSharp\04_Knopf_mit_Eventhandler\obj\Debug\04_Knopf_mit_Eventhandler.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\CSharp\04_Knopf_mit_Eventhandler\obj\Debug\MainWindow.baml
+C:\Users\sanke\source\repos\CSharp\04_Knopf_mit_Eventhandler\obj\Debug\MainWindow.g.cs
+C:\Users\sanke\source\repos\CSharp\04_Knopf_mit_Eventhandler\obj\Debug\App.g.cs
+C:\Users\sanke\source\repos\CSharp\04_Knopf_mit_Eventhandler\obj\Debug\04_Knopf_mit_Eventhandler_MarkupCompile.cache
+C:\Users\sanke\source\repos\CSharp\04_Knopf_mit_Eventhandler\obj\Debug\04_Knopf_mit_Eventhandler.g.resources
+C:\Users\sanke\source\repos\CSharp\04_Knopf_mit_Eventhandler\obj\Debug\_04_Knopf_mit_Eventhandler.Properties.Resources.resources
+C:\Users\sanke\source\repos\CSharp\04_Knopf_mit_Eventhandler\obj\Debug\04_Knopf_mit_Eventhandler.csproj.GenerateResource.cache
+C:\Users\sanke\source\repos\CSharp\04_Knopf_mit_Eventhandler\obj\Debug\04_Knopf_mit_Eventhandler.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\CSharp\04_Knopf_mit_Eventhandler\obj\Debug\04_Knopf_mit_Eventhandler.exe
+C:\Users\sanke\source\repos\CSharp\04_Knopf_mit_Eventhandler\obj\Debug\04_Knopf_mit_Eventhandler.pdb

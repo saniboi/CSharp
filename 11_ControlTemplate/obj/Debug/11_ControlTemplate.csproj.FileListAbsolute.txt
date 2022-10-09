@@ -1,0 +1,15 @@
+C:\Users\sanke\source\repos\CSharp\11_ControlTemplate\bin\Debug\11_ControlTemplate.exe.config
+C:\Users\sanke\source\repos\CSharp\11_ControlTemplate\bin\Debug\11_ControlTemplate.exe
+C:\Users\sanke\source\repos\CSharp\11_ControlTemplate\bin\Debug\11_ControlTemplate.pdb
+C:\Users\sanke\source\repos\CSharp\11_ControlTemplate\obj\Debug\11_ControlTemplate.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\CSharp\11_ControlTemplate\obj\Debug\11_ControlTemplate.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\CSharp\11_ControlTemplate\obj\Debug\MainWindow.baml
+C:\Users\sanke\source\repos\CSharp\11_ControlTemplate\obj\Debug\MainWindow.g.cs
+C:\Users\sanke\source\repos\CSharp\11_ControlTemplate\obj\Debug\App.g.cs
+C:\Users\sanke\source\repos\CSharp\11_ControlTemplate\obj\Debug\11_ControlTemplate_MarkupCompile.cache
+C:\Users\sanke\source\repos\CSharp\11_ControlTemplate\obj\Debug\11_ControlTemplate.g.resources
+C:\Users\sanke\source\repos\CSharp\11_ControlTemplate\obj\Debug\_11_ControlTemplate.Properties.Resources.resources
+C:\Users\sanke\source\repos\CSharp\11_ControlTemplate\obj\Debug\11_ControlTemplate.csproj.GenerateResource.cache
+C:\Users\sanke\source\repos\CSharp\11_ControlTemplate\obj\Debug\11_ControlTemplate.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\CSharp\11_ControlTemplate\obj\Debug\11_ControlTemplate.exe
+C:\Users\sanke\source\repos\CSharp\11_ControlTemplate\obj\Debug\11_ControlTemplate.pdb

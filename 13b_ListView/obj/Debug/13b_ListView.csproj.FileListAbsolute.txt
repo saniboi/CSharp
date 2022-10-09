@@ -1,0 +1,15 @@
+C:\Users\sanke\source\repos\CSharp\13b_ListView\bin\Debug\13b_ListView.exe.config
+C:\Users\sanke\source\repos\CSharp\13b_ListView\bin\Debug\13b_ListView.exe
+C:\Users\sanke\source\repos\CSharp\13b_ListView\bin\Debug\13b_ListView.pdb
+C:\Users\sanke\source\repos\CSharp\13b_ListView\obj\Debug\13b_ListView.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\CSharp\13b_ListView\obj\Debug\13b_ListView.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\CSharp\13b_ListView\obj\Debug\MainWindow.baml
+C:\Users\sanke\source\repos\CSharp\13b_ListView\obj\Debug\MainWindow.g.cs
+C:\Users\sanke\source\repos\CSharp\13b_ListView\obj\Debug\App.g.cs
+C:\Users\sanke\source\repos\CSharp\13b_ListView\obj\Debug\13b_ListView_MarkupCompile.cache
+C:\Users\sanke\source\repos\CSharp\13b_ListView\obj\Debug\13b_ListView.g.resources
+C:\Users\sanke\source\repos\CSharp\13b_ListView\obj\Debug\_13b_ListView.Properties.Resources.resources
+C:\Users\sanke\source\repos\CSharp\13b_ListView\obj\Debug\13b_ListView.csproj.GenerateResource.cache
+C:\Users\sanke\source\repos\CSharp\13b_ListView\obj\Debug\13b_ListView.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\CSharp\13b_ListView\obj\Debug\13b_ListView.exe
+C:\Users\sanke\source\repos\CSharp\13b_ListView\obj\Debug\13b_ListView.pdb

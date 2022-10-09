@@ -1,0 +1,34 @@
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\bin\Debug\13_DataBinding_im_XAML.exe.config
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\bin\Debug\13_DataBinding_im_XAML.exe
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\bin\Debug\13_DataBinding_im_XAML.pdb
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML.csproj.AssemblyReference.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\obj\Debug\MainWindow.g.cs
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\obj\Debug\App.g.cs
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML_MarkupCompile.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML_MarkupCompile.lref
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\obj\Debug\MainWindow.baml
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML.g.resources
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\obj\Debug\_13_DataBinding_im_XAML.Properties.Resources.resources
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML.csproj.GenerateResource.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML.exe
+C:\Users\sanke\Source\Repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML.pdb
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\bin\Debug\13_DataBinding_im_XAML.exe.config
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\bin\Debug\13_DataBinding_im_XAML.exe
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\bin\Debug\13_DataBinding_im_XAML.pdb
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\obj\Debug\MainWindow.g.cs
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\obj\Debug\App.g.cs
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML_MarkupCompile.cache
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML_MarkupCompile.lref
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\obj\Debug\MainWindow.baml
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML.g.resources
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\obj\Debug\_13_DataBinding_im_XAML.Properties.Resources.resources
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML.csproj.GenerateResource.cache
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML.exe
+C:\Users\sanke\source\repos\CSharp\13_DataBinding_im_XAML\obj\Debug\13_DataBinding_im_XAML.pdb

@@ -1,0 +1,58 @@
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\obj\Debug\Prämienrechner.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\obj\Debug\Prämienrechner.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\obj\Debug\MainWindow.g.cs
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\obj\Debug\App.g.cs
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\obj\Debug\Prämienrechner_MarkupCompile.cache
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\obj\Debug\Prämienrechner_MarkupCompile.lref
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\bin\Debug\Prämienrechner.exe.config
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\bin\Debug\Prämienrechner.exe
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\bin\Debug\Prämienrechner.pdb
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\bin\Debug\EntityFramework.dll
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\bin\Debug\EntityFramework.xml
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\obj\Debug\Prämienrechner.Properties.Resources.resources
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\obj\Debug\Prämienrechner.csproj.GenerateResource.cache
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\obj\Debug\Prämienrechner.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\obj\Debug\Prämienrechner.csproj.CopyComplete
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\obj\Debug\Prämienrechner.exe
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\obj\Debug\Prämienrechner.pdb
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\obj\Debug\Resources\RundeButtons.baml
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\obj\Debug\MainWindow.baml
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\obj\Debug\Prämienrechner.g.resources
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sanke\source\repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 1\Quellcode\Prämienrechner\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\obj\Debug\Prämienrechner.exe
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\obj\Debug\Prämienrechner.pdb
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\bin\Debug\Prämienrechner.exe.config
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\bin\Debug\Prämienrechner.exe
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\bin\Debug\Prämienrechner.pdb
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\bin\Debug\EntityFramework.dll
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\bin\Debug\EntityFramework.xml
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\obj\Debug\Prämienrechner.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\obj\Debug\Prämienrechner.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\obj\Debug\Resources\RundeButtons.baml
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\obj\Debug\MainWindow.g.cs
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\obj\Debug\App.g.cs
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\obj\Debug\Prämienrechner_MarkupCompile.cache
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\obj\Debug\Prämienrechner_MarkupCompile.lref
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\obj\Debug\MainWindow.baml
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\obj\Debug\Prämienrechner.g.resources
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\obj\Debug\Prämienrechner.Properties.Resources.resources
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\obj\Debug\Prämienrechner.csproj.GenerateResource.cache
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\obj\Debug\Prämienrechner.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\CSharp\Prämienrechner\obj\Debug\Prämienrechner.csproj.CopyComplete

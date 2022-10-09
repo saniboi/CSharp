@@ -1,0 +1,23 @@
+﻿<Window x:Class="_09_TreeView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="501.57" Width="525">
+    <StackPanel>
+        <TreeView HorizontalAlignment="Left" VerticalAlignment="Top">
+            <TreeViewItem Header="Luxury Cars" FontSize="16" Background="Lavender">
+                <TreeViewItem Header="Audi a8" />
+                <TreeViewItem Header="BMW 730d" />
+                <TreeViewItem Header="Lexus LS 600h" />
+            </TreeViewItem>
+            <TreeViewItem Header="Sports Cars" FontSize="25" Background="Yellow" IsExpanded="True">
+                <TreeViewItem Header="Ferrari" />
+                <TreeViewItem Header="Lamborghini Gallardo" />
+                <TreeViewItem Header="Lotus Elise" />
+            </TreeViewItem>
+        </TreeView>
+        <TreeView x:Name="TreeViewCarBrands"/>
+    </StackPanel>
+</Window>

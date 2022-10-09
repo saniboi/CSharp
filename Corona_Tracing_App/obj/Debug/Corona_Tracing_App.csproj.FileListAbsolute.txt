@@ -1,0 +1,72 @@
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.csproj.AssemblyReference.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\obj\Debug\MainWindow.g.cs
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\obj\Debug\App.g.cs
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\obj\Debug\Corona_Tracing_App_MarkupCompile.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\obj\Debug\Corona_Tracing_App_MarkupCompile.lref
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\obj\Debug\Resources\Style.baml
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\Corona_Tracing_App.exe.config
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\Corona_Tracing_App.exe
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\Corona_Tracing_App.pdb
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\obj\Debug\MainWindow.baml
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.g.resources
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.Properties.Resources.resources
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.csproj.GenerateResource.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.exe
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.pdb
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\System.Buffers.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\System.Memory.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\System.Text.Json.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\System.ValueTuple.dll
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\System.Buffers.xml
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\System.Memory.xml
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\System.Text.Json.xml
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\bin\Debug\System.ValueTuple.xml
+C:\Users\sanke\Source\Repos\hbuch\2021-Kerim-San\CS2\02 Prüfungen\Prüfung 3 - MLZ\Quellcode\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.csproj.CopyComplete
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\Corona_Tracing_App.exe.config
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\Corona_Tracing_App.exe
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\Corona_Tracing_App.pdb
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\System.Buffers.dll
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\System.Memory.dll
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\System.Text.Json.dll
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\System.ValueTuple.dll
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\System.Buffers.xml
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\System.Memory.xml
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\System.Text.Json.xml
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\bin\Debug\System.ValueTuple.xml
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\obj\Debug\Resources\Style.baml
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\obj\Debug\MainWindow.g.cs
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\obj\Debug\App.g.cs
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\obj\Debug\Corona_Tracing_App_MarkupCompile.cache
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\obj\Debug\Corona_Tracing_App_MarkupCompile.lref
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\obj\Debug\MainWindow.baml
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.g.resources
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.Properties.Resources.resources
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.csproj.GenerateResource.cache
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.csproj.CopyComplete
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.exe
+C:\Users\sanke\source\repos\CSharp\Corona_Tracing_App\obj\Debug\Corona_Tracing_App.pdb

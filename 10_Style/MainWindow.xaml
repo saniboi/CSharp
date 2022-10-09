@@ -1,0 +1,26 @@
+﻿<Window x:Class="_10_Style.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="117" Width="249">
+    <Window.Resources>
+        <!--Wenn man x:Key weglässt, wird der Style auf alle Buttons appliziert; sonst nicht.-->
+        <Style x:Key="MyStyle" TargetType="Button">
+            <Setter Property="Background" Value="Orange" />
+            <Setter Property="FontStyle" Value="Italic" />
+            <Setter Property="Padding" Value="8,4" />
+            <Setter Property="Margin" Value="4" />
+        </Style>
+    </Window.Resources>
+
+    <StackPanel Orientation="Horizontal" VerticalAlignment="Top">
+        <!--Mit Referenz auf Style.-->
+        <Button Style="{StaticResource MyStyle}">Styles</Button>
+        <Button Style="{StaticResource MyStyle}">are</Button>
+        <Button Style="{StaticResource MyStyle}">cool</Button>
+        <!--Ohne Referenz auf Style.-->
+        <Button>!</Button>
+    </StackPanel>
+</Window>

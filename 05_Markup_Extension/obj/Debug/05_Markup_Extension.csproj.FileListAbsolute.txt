@@ -1,0 +1,15 @@
+C:\Users\sanke\source\repos\CSharp\05_Markup_Extension\bin\Debug\05_Markup_Extension.exe.config
+C:\Users\sanke\source\repos\CSharp\05_Markup_Extension\bin\Debug\05_Markup_Extension.exe
+C:\Users\sanke\source\repos\CSharp\05_Markup_Extension\bin\Debug\05_Markup_Extension.pdb
+C:\Users\sanke\source\repos\CSharp\05_Markup_Extension\obj\Debug\05_Markup_Extension.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\CSharp\05_Markup_Extension\obj\Debug\05_Markup_Extension.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanke\source\repos\CSharp\05_Markup_Extension\obj\Debug\MainWindow.baml
+C:\Users\sanke\source\repos\CSharp\05_Markup_Extension\obj\Debug\MainWindow.g.cs
+C:\Users\sanke\source\repos\CSharp\05_Markup_Extension\obj\Debug\App.g.cs
+C:\Users\sanke\source\repos\CSharp\05_Markup_Extension\obj\Debug\05_Markup_Extension_MarkupCompile.cache
+C:\Users\sanke\source\repos\CSharp\05_Markup_Extension\obj\Debug\05_Markup_Extension.g.resources
+C:\Users\sanke\source\repos\CSharp\05_Markup_Extension\obj\Debug\_05_Markup_Extension.Properties.Resources.resources
+C:\Users\sanke\source\repos\CSharp\05_Markup_Extension\obj\Debug\05_Markup_Extension.csproj.GenerateResource.cache
+C:\Users\sanke\source\repos\CSharp\05_Markup_Extension\obj\Debug\05_Markup_Extension.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\CSharp\05_Markup_Extension\obj\Debug\05_Markup_Extension.exe
+C:\Users\sanke\source\repos\CSharp\05_Markup_Extension\obj\Debug\05_Markup_Extension.pdb

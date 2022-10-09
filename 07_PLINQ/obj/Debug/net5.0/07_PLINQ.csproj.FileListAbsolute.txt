@@ -1,0 +1,16 @@
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\07_PLINQ\bin\Debug\net5.0\07_PLINQ.exe
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\07_PLINQ\bin\Debug\net5.0\07_PLINQ.deps.json
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\07_PLINQ\bin\Debug\net5.0\07_PLINQ.runtimeconfig.json
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\07_PLINQ\bin\Debug\net5.0\07_PLINQ.runtimeconfig.dev.json
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\07_PLINQ\bin\Debug\net5.0\07_PLINQ.dll
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\07_PLINQ\bin\Debug\net5.0\07_PLINQ.pdb
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\07_PLINQ\obj\Debug\net5.0\07_PLINQ.csproj.AssemblyReference.cache
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\07_PLINQ\obj\Debug\net5.0\07_PLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\07_PLINQ\obj\Debug\net5.0\07_PLINQ.AssemblyInfoInputs.cache
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\07_PLINQ\obj\Debug\net5.0\07_PLINQ.AssemblyInfo.cs
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\07_PLINQ\obj\Debug\net5.0\07_PLINQ.csproj.CoreCompileInputs.cache
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\07_PLINQ\obj\Debug\net5.0\07_PLINQ.dll
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\07_PLINQ\obj\Debug\net5.0\refint\07_PLINQ.dll
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\07_PLINQ\obj\Debug\net5.0\07_PLINQ.pdb
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\07_PLINQ\obj\Debug\net5.0\07_PLINQ.genruntimeconfig.cache
+C:\Users\sanke\source\repos\hbuch\2021-Unterrichtsmaterial\CS2\02 Code\07_PLINQ\obj\Debug\net5.0\ref\07_PLINQ.dll
